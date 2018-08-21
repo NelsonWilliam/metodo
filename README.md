@@ -18,10 +18,12 @@ O grupo deste trabalho é composto pelos seguintes membros:
 
 No planejamento inicial, definiu-se o escopo do trabalho e os integrantes que serão responsáveis por cada componente do trabalho (e os respectivos slides da apresentação). Os componentes do trabalho são:
 
-- **introdução** (metodologias ágeis; o que é Scrum; origem etc.): Natália Lopes;
-- **papéis**: Nelson William;
-- **etapas e artefatos**: João Pedro Arruda;
-- **aplicabilidade** (vantagens, desvantagens, situações recomendadas, exemplos etc.): Larissa Mello;
-- **relação com PMBOK e MPS.BR**: Sofia Moraes;
-- **conclusão**: Todos;
-- **edição do vídeo da apresentação**: Nelson William.
+| Componente | Responsável |
+|---|---|
+| introdução (metodologias ágeis; o que é Scrum; origem etc.) | Natália Lopes |
+| papéis | Nelson William |
+| etapas e artefatos | João Pedro Arruda |
+| aplicabilidade (vantagens, desvantagens, situações recomendadas, exemplos etc.) | Larissa Mello |
+| relação com PMBOK e MPS.BR | Sofia Moraes |
+| conclusão | Todos |
+| edição do vídeo da apresentação | Nelson William |
