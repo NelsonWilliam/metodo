@@ -1,6 +1,6 @@
 # Scrum
 
-Trabalho em grupo da disciplina Métodos e Ferramentas de Software (UFG 2018-2) sobre o método de desenvolvimento de software Scrum.
+Trabalho em grupo da disciplina Métodos e Ferramentas de Software (UFG 2018-2) sobre o método de desenvolvimento de software Scrum, a ser entregue até o dia 22/10/2018.
 
 ## Grupo
 
