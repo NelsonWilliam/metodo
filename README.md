@@ -1,6 +1,6 @@
-# metodo
+# Scrum
 
-Trabalho em grupo da disciplina Métodos e Ferramentas de Software, UFG 2018-2.
+Trabalho em grupo da disciplina Métodos e Ferramentas de Software (UFG 2018-2) sobre o método de desenvolvimento de software Scrum.
 
 ## Grupo
 
