@@ -16,7 +16,7 @@ O grupo deste trabalho é composto pelos seguintes membros:
 
 ### 20/08/18
 
-No planejamento inicial, definiu-se o escopo do trabalho e os integrantes que serão responsáveis por cada componente do trabalho (e os respectivos slides da apresentação). Os componentes do trabalho são:
+No planejamento inicial, definiu-se o escopo do trabalho e os integrantes que serão responsáveis por cada componente do trabalho (incluindo os respectivos slides para apresentação). Os componentes do trabalho são:
 
 | Componente | Responsável |
 |---|---|
