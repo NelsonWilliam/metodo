@@ -4,15 +4,15 @@
 
 ### Grooming 
 
-Esta atividade ocorre quando o Product Owner e as outras partes interessadas no projeto traduzem as especificações do produto, anteriormente idealizado, em uma lista de funcionalidades, denominada Product Backlog.
+Essa atividade ocorre quando o Product Owner e as outras partes interessadas no projeto traduzem as especificações do produto, anteriormente idealizado, em uma lista de funcionalidades, denominada Product Backlog.
 
 ### Sprint Planning Meeting 
 
-É a reunião de planejamento da Sprint, na qual devem estar presentes o Product Owner, o Scrum Master e a Equipe. Nessa reunião, analisa-se o Product Backlog para se definir o objetivo da Sprint a partir do Sprint Backlog, que contém todas as funcionalidades do produto a serem implementadas no projeto dentro do prazo da Sprint.
+É a reunião de planejamento da Sprint, na qual devem estar presentes o Product Owner, o Scrum Master e a Equipe. Nessa reunião, analisa-se o Product Backlog para se definir as funcionalidades que irão compor o Sprint Backlog. Esse artefato contém o objetivo da Sprint, ou seja, o que será implementado no projeto dentro do prazo desta, para gerar o incremento do produto.
 
 ### Sprint
 
-É o período de trabalho em que são realizadas as atividades concernentes ao projeto que irão culminar no incremento e/ou entrega do produto. Uma nova sprint tem de seguir sequencialmente a conclusão da anterior, não sendo recomendado que seu escopo e/ou equipe seja alterado. Pode durar entre duas a quatro semanas, e todas as outras sprints do projeto devem possuir a mesma duração, além inícios e conclusões com datas fixas. 
+É o período de trabalho em que são realizadas as atividades concernentes ao projeto que irão culminar no incremento e/ou entrega do produto. Uma nova sprint só deve ser iniciada após a conclusão da anterior, não sendo recomendado que seu escopo e/ou equipe seja alterado. Pode durar entre duas a quatro semanas, e todas as outras sprints do projeto devem possuir a mesma duração, além de inícios e conclusões com datas fixas. 
 
 ### Daily Scrum
 
@@ -36,13 +36,12 @@ Também chamada de “Stand-up meeting”, o Daily Scrum é uma pequena reunião
 
 ### Product Backlog
 
-É a especificação do produto na forma de funcionalidades, sendo elaborada pelo Product Owner, juntamente com o Scrum Master. Tais funcionalidades são classificadas de acordo com a relevância para os incrementos, determinando sua prioridade. Além disso, o Product Backlog não necessariamente deve estar completo no início do projeto, podendo sofrer alterações em seu decorrer. Caso isso ocorra, deve-se sempre adequar as Sprints subsequentes às mudanças surgidas.
+É a especificação do produto na forma de funcionalidades, sendo elaborada pelo Product Owner, juntamente com o Scrum Master. Tais funcionalidades são classificadas de acordo com a relevância para os incrementos, determinando suas prioridades perante as outras. Além disso, o Product Backlog não necessariamente deve estar completo no início do projeto, podendo sofrer alterações em seu decorrer. Caso isso ocorra, deve-se sempre adequar as Sprints subsequentes às mudanças surgidas.
 
 ### Sprint Backlog
 
-É feita no Sprint Planning com base no Product Backlog, contendo as funcionalidades que deverão ser implementadas dentro do prazo da Sprint, resultando em um incremento. 
+É feita no Sprint Planning com base no Product Backlog, contendo as funcionalidades do produto que deverão ser implementadas dentro do prazo da Sprint, resultando em um incremento deste. 
 
 ### Incremento/entrega
 
 É uma parte do projeto desenvolvido durante uma Sprint, contendo funcionalidades relevantes e utilizáveis. Após cada Sprint, deverá haver um novo incremento, resultando na entrega do produto completo.
-
