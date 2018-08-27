@@ -14,16 +14,15 @@ O grupo deste trabalho é composto pelos seguintes membros:
 
 ## Planejamento
 
-### 20/08/18
+Estão definidas abaixo as atividades a serem executadas pelos membros do grupo para desenvolver o trabalho. Este planejamento provavelmente **será modificado** ao longo do trabalho, conforme o grupo adquire mais conhecimento sobre o tema e sobre o trabalho.
 
-No planejamento inicial, definiu-se o escopo do trabalho e os integrantes que serão responsáveis por cada componente do trabalho (incluindo os respectivos slides para apresentação). Os componentes do trabalho são:
-
-| Componente | Responsável |
-|---|---|
-| introdução (metodologias ágeis; o que é Scrum; origem etc.) | Natália Lopes |
-| papéis | Nelson William |
-| etapas e artefatos | João Pedro Arruda |
-| aplicabilidade (vantagens, desvantagens, situações recomendadas, exemplos etc.) | Larissa Mello |
-| relação com PMBOK e MPS.BR | Sofia Moraes |
-| conclusão | Todos |
-| edição do vídeo da apresentação | Nelson William |
+| Atividade | Responsável(eis) | Data | Status |
+|---|---|---|---|
+| Selecionar referências para o trabalho | Todos  | 31/8/18 | Em andamento |
+| Consolidar/filtrar as referências selecionadas | Todos  | 1/9/18 | Pendente |
+| Estudar as referências e identificar tópicos relevantes | Todos  | 3/9/18 | Pendente |
+| Discutir os tópicos identificados e estabelecer o viés do trabalho<br>(temas abordados, público alvo, complexidade...) | Todos | 8/9/18 | Pendente |
+| Definir a estrutura inicial do texto com base nos tópicos | Todos | 9/9/18 | Pendente |
+| Dividir responsabilidades entre os membros | Todos  | 10/9/18 | Pendente |
+| Redigir e revisar os componentes texto | ??? | 8/10/18 | Pendente |
+| Revisão geral do texto | ??? | 15/10/18 | Pendente |
