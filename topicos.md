@@ -1,4 +1,4 @@
-## Sugestões de topicos para o trabalho:
+## Sugestões de tópicos para o trabalho:
 
 ### Sofia Moraes
 - Devo usar Scrum? (um estudo sobre aplicabilidade com estudo de caso)
@@ -7,3 +7,6 @@
 
 ### Larissa Mello
 - Scrum + Design Thinking
+
+### João Pedro
+- Scrum + PMBOK
