@@ -10,3 +10,7 @@
 
 ### João Pedro
 - Scrum + PMBOK
+
+### Nelson William
+- Otimizar a transição do gerenciamento tradicional pro Scrum/métodos ágeis
+  - Devo usar Scrum? Quais obstáculos comuns? Como resolvê-los?
