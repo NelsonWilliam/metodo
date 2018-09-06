@@ -10,6 +10,7 @@
 
 ### João Pedro
 - Scrum + PMBOK
+- Devo usar Scrum? (adequação do Scrum para determinados tipos de projeto)
 
 ### Nelson William
 - Otimizar a transição do gerenciamento tradicional pro Scrum/métodos ágeis
