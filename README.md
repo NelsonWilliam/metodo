@@ -21,7 +21,7 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Selecionar referências para o trabalho | Todos  | 31/8/18 | Concluído |
 | Consolidar/filtrar as referências selecionadas | Todos  | 1/9/18 | Em andamento |
 | Estudar as referências e identificar tópicos relevantes | Todos  | 3/9/18 | Em andamento |
-| Discutir os tópicos identificados e estabelecer o viés do trabalho<br>(temas abordados, público alvo, complexidade...) | Todos | 8/9/18 | Pendente |
+| Discutir os tópicos identificados e estabelecer o viés do trabalho<br>(temas abordados, público alvo, complexidade...) | Todos | 8/9/18 | Em andamento |
 | Definir a estrutura inicial do texto com base nos tópicos | Todos | 9/9/18 | Pendente |
 | Dividir responsabilidades entre os membros | Todos  | 10/9/18 | Pendente |
 | Redigir e revisar os componentes texto | ??? | 8/10/18 | Pendente |
