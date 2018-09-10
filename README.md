@@ -26,3 +26,8 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Dividir responsabilidades entre os membros | Todos  | 10/9/18 | Pendente |
 | Redigir e revisar os componentes texto | ??? | 8/10/18 | Pendente |
 | Revisão geral do texto | ??? | 15/10/18 | Pendente |
+
+**Modelo de execução**
+- Três pessos elaboram o conteúdo: estrutura de tópicos, conceitos e explicações breves.
+- Uma pessoa transforma o conteúdo em texto corrido.
+- Uma pessoa revisa o texto.
