@@ -7,6 +7,7 @@
 
 ### Larissa Mello
 - Scrum + Design Thinking
+- Como evitar erros na implantação do Scrum
 
 ### João Pedro
 - Scrum + PMBOK
