@@ -16,3 +16,17 @@
 ### Nelson William
 - Otimizar a transição do gerenciamento tradicional pro Scrum/métodos ágeis
   - Devo usar Scrum? Quais obstáculos comuns? Como resolvê-los?
+
+## Tópico definido:
+# Devo usar Scrum?
+- Contextualização
+- Tipos de projeto (software) que se aplica scrum
+  - Pontos positivos e negativos
+  - Evitando obstáculo
+- Requisitos para se usar Scrum
+- Estudo de caso
+
+Extras (a se considerar)
+- FAQ
+  - Scrum se mistura com mps.br e pmbok?
+  - Scrum se mistura com Design Thinking?
