@@ -19,15 +19,16 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Atividade | Responsável(eis) | Data | Status |
 |---|---|---|---|
 | Selecionar referências para o trabalho | Todos  | 31/8/18 | Concluído |
-| Consolidar/filtrar as referências selecionadas | Todos  | 1/9/18 | Em andamento |
-| Estudar as referências e identificar tópicos relevantes | Todos  | 3/9/18 | Em andamento |
-| Discutir os tópicos identificados e estabelecer o viés do trabalho<br>(temas abordados, público alvo, complexidade...) | Todos | 8/9/18 | Em andamento |
-| Definir a estrutura inicial do texto com base nos tópicos | Todos | 9/9/18 | Pendente |
-| Dividir responsabilidades entre os membros | Todos  | 10/9/18 | Pendente |
-| Redigir e revisar os componentes texto | ??? | 8/10/18 | Pendente |
-| Revisão geral do texto | ??? | 15/10/18 | Pendente |
+| Consolidar/filtrar as referências selecionadas | Todos  | 10/9/18 | Concluído |
+| Estudar as referências e identificar tópicos relevantes | Todos  | 10/9/18 | Concluído |
+| Discutir os tópicos identificados e estabelecer o viés do trabalho<br>(temas abordados, público alvo, complexidade...) | Todos | 10/9/18 | Concluído |
+| Dividir responsabilidades entre os membros | Todos  | 10/9/18 | Concluído |
+| Elaborar conteúdo: tópicos, conceitos e explicações | Natália Lopes,<br>Larissa Chyevena<br>e Sofia Moraes | 1/10/18 | Em andamento |
+| Redigir o texto corrido com base no conteúdo | João Pedro Arruda | 8/10/18 | Pendente |
+| Revisão do conteúdo e do texto | Nelson William | 15/10/18 | Pendente |
+| Finalização e envio do texto | Todos | 16/10/18 | Pendente |
 
 **Modelo de execução**
-- Três pessos elaboram o conteúdo: estrutura de tópicos, conceitos e explicações breves.
+- Três pessoas elaboram o conteúdo: estrutura de tópicos, conceitos e explicações breves.
 - Uma pessoa transforma o conteúdo em texto corrido.
 - Uma pessoa revisa o texto.
