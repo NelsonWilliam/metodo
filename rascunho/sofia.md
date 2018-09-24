@@ -4,7 +4,7 @@ A engenharia de sw surgiu em meados da década de 60 com o objetivo de soluciona
 2- Insatisfação do cliente com o sistema concluído
 3- Qualidade de software menor que a adequada
 4- Dificuldade de manutenção do software
-Porém, mesmo com a Engenharia de Sw, o desenvolvimento de sw ainda enfrenta problemas. Como apontado por Frederick P. Brooks em 1987, o desenvolvimento conta com dificuldades essenciais (pertinentes à natureza do software) e acidentais (pertinentes à produção do software), e conquistas passadas resolveram as dificuldades acidentais, não essenciais. Dessa forma, a produção de um produto de software possui problemas de:
+Porém, mesmo com a Engenharia de Sw, o desenvolvimento de sw ainda enfrenta problemas. Como apontado por Frederick P. Brooks em 1987, no artigo "No silver bullet", o desenvolvimento conta com dificuldades essenciais (pertinentes à natureza do software) e acidentais (pertinentes à produção do software), e conquistas passadas resolveram as dificuldades acidentais, não essenciais. Dessa forma, a produção de um produto de software possui problemas de:
 - Complexidade (possui grande número de estados);
 - Conformidade (padrões desenvolvidos por pessoas diferentes, em tempos diferentes);
 - Alterabilidade (Mudanças constantes); e
