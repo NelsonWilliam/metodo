@@ -35,24 +35,24 @@ Seguindo os princípios do manifesto ágil, o SCRUM tem uma estrutura que serve 
 
 ## Tipos de projeto (software) que se aplica scrum
 “Scrum é fundamentado nas teorias empíricas de controle de processo, ou empirismo. O empirismo. O empirismo afirma que o conhecimento vem da experiência e de tomada de decisões baseadas no que é conhecido. O Scrum emprega uma abordagem iterativa e incremental para aperfeiçoar a previsibilidade e o controle de riscos.”
-!!Assim, para que um projeto possa ser desenvolvido usando a metodologia Scrum, ele deve refletir os “Três pilares apóiam a implementação de controle de processo empírico: transparência, inspeção e adaptação.”
+Assim, para que um projeto possa ser desenvolvido usando a metodologia Scrum, ele deve refletir os “Três pilares apóiam a implementação de controle de processo empírico: transparência, inspeção e adaptação.”
 
-*Projetos transparentes*
+**Projetos transparentes**
 Onde os aspectos significativos do processo devem estar visíveis aos responsáveis pelos resultados.
 Um projeto Scrum deve possuir transparência em seu desenvolvimento, deve estar preparado para expor e discutir as disfunções dentro da organização. A organização deve ter “coragem, compromisso, respeito, franqueza e foco no combate a esses empecilhos e realmente abraça o empirismo, então, sim, sua organização pode ser ágil.” 
 
-*Projeto com Inspeção *
+**Projeto com Inspeção**
 Onde o projeto deve abrir espaço para a revisão de seus artefatos. Os produtos de trabalho gerados devem ser frequentemente inspecionados quanto a seu progresso e objetivo. Porém, a inspeção não deve ser tão freqüente que atrapalhe a própria execução das tarefas.
 No contexto de inspeção, vale lembrar que o Product Owner do projeto, aquele que é o conhecedor do domínio exerce forte papel de inspeção no artefato Product Backlog. É necessário em um projeto Scrum que esse papel esteja preenchido, e que as decisões do PO sejam respeitadas.
 
-*Projetos adaptáveis*
+**Projetos adaptáveis**
 Onde, se for constatado que uma mudança deve ser feita, o processo ou o material sendo produzido deve ser ajustado o mais breve possível para minimizar mais desvios, diminuindo assim o impacto e o custo da mudança.
 Geralmente, projetos adequados ao Scrum são aqueles que possuem a necessidade de se adaptar à mudanças, onde seus requisitos ainda não foram completamente definidos, e novas necessidades vão surgindo ao longo de suas Sprints. Projetos com o escopo já definido não possuem essa necessidade de adaptação.
 
-*Projetos menores*
+**Projetos menores**
 Onde os trabalhos podem ser desenvolvidos por equipes menores, preferencialmente de 3 a 9 pessoas, que possam organizar e gerenciar seu próprio trabalho. Menos de três integrantes na Equipe de Desenvolvimento diminuem a interação e resultam em um menor ganho de produtividade. Equipes grandes geram muita complexidade para um processo empírico gerenciar. Os papéis de Product Owner e de Scrum Master não são incluídos nesta contagem, ao menos que eles também executam o trabalho do Backlog da Sprint.
 
-*Referências*
+**Referências**
 - Scrum Guide - Portuguese BR.pdf  [ref](https://github.com/NelsonWilliam/metodo/blob/master/referencias/Scrum/Scrum%20Guide%20-%20Portuguese%20BR.pdf)
 - Site desenvolvimento ágil - Scrum [ref](https://www.desenvolvimentoagil.com.br/scrum/)
 - Crise do software [ref](https://pt.wikipedia.org/wiki/Crise_do_software)
