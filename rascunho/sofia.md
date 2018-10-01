@@ -1,4 +1,12 @@
+# Devo usar scrum?
 ## Contextualização
+No contexto de desenvolvimento de software, se ouve muito a palavra scrum
+Scrum é …
+"Scrum é um framework estrutural que está sendo usada para gerenciar o desenvolvimento de produtos complexos desde o início de 1990. Scrum não é um processo ou uma técnica para construir produtos; em vez disso, é um framework dentro do qual você pode empregar vários processos ou técnicas. O Scrum deixa claro a eficácia relativa das práticas de gerenciamento e desenvolvimento de produtos, de modo que você possa melhorá-las.” (ref)
+“No Scrum, os projetos são divididos em ciclos (tipicamente mensais) chamados de Sprints. O Sprint representa um Time Box dentro do qual um conjunto de atividades deve ser executado” (ref)
+Apesar de não ter sido criado especificamente para se desenvolver software, o SCRUM é largamente adotado para esse propósito, se tornando uma das maneiras mais utilizadas para gestão e planejamento de projetos de software.
+Mas por quê?
+Para isso é necessário entender a natureza dos projetos de desenvolvimento de software. Começaremos então com a origem da engenharia de software.
 A engenharia de sw surgiu em meados da década de 60 com o objetivo de solucionar a Crise do Software, designação dada ao conjunto de problemas encontrados no desenvolvimento de software:
 1- Imprecisão nas estimativas de prazo e de custo
 2- Insatisfação do cliente com o sistema concluído
@@ -27,7 +35,4 @@ Ou seja, mesmo havendo valor nos itens à direita, valorizamos mais os itens à 
 Entre os princípios para o desenvolvimento de sw ágil, se encontram:
 - Entregas funcionais contínuas e em prazos curtos, se adaptar à mudanças, trabalhar juntamente com o cliente e pessoal de negócios etc.
 É nesse contexto que se encaixa o SCRUM
-### SCRUM
-"Scrum é um framework estrutural que está sendo usada para gerenciar o desenvolvimento de produtos complexos desde o início de 1990. Scrum não é um processo ou uma técnica para construir produtos; em vez disso, é um framework dentro do qual você pode empregar vários processos ou técnicas. O Scrum deixa claro a eficácia relativa das práticas de gerenciamento e desenvolvimento de produtos, de modo que você possa melhorá-las. Apesar de não ter sido criado especificamente para se desenvolver software, o SCRUM é largamente adotado para esse propósito."
-Seguindo os princípios do manifesto ágil, o SCRUM tem uma estrutura que serve ao desenvolvimento de software muito bem e se tornou extremamente popular ..... CONTINUAR.
 
