@@ -25,8 +25,10 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Dividir responsabilidades entre os membros | Todos  | 10/9/18 | Concluído |
 | Elaborar conteúdo: tópicos, conceitos e explicações | Natália Lopes,<br>Larissa Chyevena<br>e Sofia Moraes | 1/10/18 | Em andamento |
 | Redigir o texto corrido com base no conteúdo | João Pedro Arruda | 8/10/18 | Em andamento |
-| Supervisão e revisão do conteúdo e do texto | Nelson William | 15/10/18 | Em andamento |
-| Finalização e envio do texto | Todos | 16/10/18 | Pendente |
+| Supervisão e revisão do conteúdo e do texto | Nelson William | 14/10/18 | Em andamento |
+| Gravação da apresentação do conteúdo | Todos | 14/10/18 | Pendente |
+| Edição da apresentação e publicaçã no YouTube | Nelson William | 20/10/18 | Pendente |
+| Finalização e envio | Todos | 16/10/18 | Pendente |
 
 **Modelo de execução**
 - Três pessoas elaboram o conteúdo: estrutura de tópicos, conceitos e explicações breves.
