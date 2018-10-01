@@ -1,5 +1,5 @@
 # Devo usar scrum?
-ps.: em aspas é uma citação, reformular e resumir para ficar com as "nossas palavras"
+ps.: em aspas é uma citação, reformular e resumir para ficar com as "nossas palavras" :)
 
 ## Contextualização
 No contexto de desenvolvimento de software, se ouve muito a palavra scrum
@@ -18,7 +18,8 @@ Porém, mesmo com a Engenharia de Sw, o desenvolvimento de sw ainda enfrenta pro
 - Complexidade (possui grande número de estados);
 - Conformidade (padrões desenvolvidos por pessoas diferentes, em tempos diferentes);
 - Alterabilidade (Mudanças constantes); e
-- Invisibilidade (sw é invisível e não visualizável, ele não pode ser representado por uma abstração geométrica).
+- Invisibilidade (sw é invisível e não visualizável, ele não pode ser representado por uma abstração geométrica)."
+
 Assim, na tentativa de sanar fraquezas reais e perceptíveis da engenharia de software convencional, foi concebida a ideia de desenvolvimento ágil, parte de uma reação contra métodos "pesados", caracterizados por uma pesada regulamentação, regimentação e micro gerenciamento usado o modelo em cascata para desenvolvimento. O processo originou-se da visão de que o modelo em cascata era burocrático, lento e contraditório a forma usual com que os engenheiros de software sempre realizaram trabalho com eficiência. Nos anos 2000, foi adotado o nome métodos ágeis e foi publicado o Manifesto Ágil.
 
 Manifesto ágil: “Estamos descobrindo maneiras melhores de desenvolver software, fazendo-o nós mesmos e ajudando outros a fazerem o mesmo. Através deste trabalho, passamos a valorizar:
@@ -51,10 +52,10 @@ Geralmente, projetos adequados ao Scrum são aqueles que possuem a necessidade d
 *Projetos menores*
 Onde os trabalhos podem ser desenvolvidos por equipes menores, preferencialmente de 3 a 9 pessoas, que possam organizar e gerenciar seu próprio trabalho. Menos de três integrantes na Equipe de Desenvolvimento diminuem a interação e resultam em um menor ganho de produtividade. Equipes grandes geram muita complexidade para um processo empírico gerenciar. Os papéis de Product Owner e de Scrum Master não são incluídos nesta contagem, ao menos que eles também executam o trabalho do Backlog da Sprint.
 
-Referências
-Scrum Guide - Portuguese BR.pdf  [ref](https://github.com/NelsonWilliam/metodo/blob/master/referencias/Scrum/Scrum%20Guide%20-%20Portuguese%20BR.pdf)
-Site desenvolvimento ágil - Scrum [ref](https://www.desenvolvimentoagil.com.br/scrum/)
-Crise do software [ref](https://pt.wikipedia.org/wiki/Crise_do_software)
-Manifesto ágil [ref](http://www.manifestoagil.com.br/index.html)
-No silver bullet [ref](https://en.wikipedia.org/wiki/No_Silver_Bullet)
-Common Misinterpretations of Scrum [ref](https://www.scrum.org/resources/blog/common-misinterpretations-scrum)
+*Referências*
+- Scrum Guide - Portuguese BR.pdf  [ref](https://github.com/NelsonWilliam/metodo/blob/master/referencias/Scrum/Scrum%20Guide%20-%20Portuguese%20BR.pdf)
+- Site desenvolvimento ágil - Scrum [ref](https://www.desenvolvimentoagil.com.br/scrum/)
+- Crise do software [ref](https://pt.wikipedia.org/wiki/Crise_do_software)
+- Manifesto ágil [ref](http://www.manifestoagil.com.br/index.html)
+- No silver bullet [ref](https://en.wikipedia.org/wiki/No_Silver_Bullet)
+- Common Misinterpretations of Scrum [ref](https://www.scrum.org/resources/blog/common-misinterpretations-scrum)
