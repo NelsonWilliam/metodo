@@ -1,4 +1,5 @@
 ## Evitando obstáculos
+### Erros que não podem ser cometidos no Scrum
 ###### (Referência: https://gaea.com.br/implantacao-de-scrum-10-erros-que-voce-nao-pode-cometer/)
 ##
 **1. Esperar que a implementação seja fácil:** Implantar o Scrum não é apenas transformar os requisitos em histórias de usuários, realizar diariamente reuniões em pé ou desenvolver softwares em sprints de 2 a 3 semanas, é necessário que haja uma transformação cultural dentro da organização, evitando alguns problemas relacionados à falta de comunicação, falta de responsabilidade, desconfiança, etc.
@@ -21,7 +22,26 @@ Preparar o backlog bem à frente dos próximos sprints é uma obrigação. Você
 **9. Não levantar obstáculos cedo o suficiente:** Uma das principais funções do Scrum Master é remover os obstáculos para que a equipe possa se concentrar na entrega de software. Mas, se os obstáculos não são levantados, o Scrum Master não pode ajudar a removê-los. Logo, nota-se a importância dos Encontrinho Diário oferece todos os dias a oportunidade para comunicar obstáculos no trabalho realizado.  
 ##
 **10. Não realizar reuniões retrospectivas após cada Sprint:** A Sprint Retrospective é muitas vezes tratada como um adicional ou um luxo e realizada apenas “se houver tempo”. Contudo, a mesma é essencial para que a equipe reflita sobre como tornar-se mais eficaz e sintoniza, além de ajustar o seu comportamento para as próximas sprints.
-
+##
+### Armadilhas do Scrum
+###### (Referência: https://sitecampus.com.br/15-armadilhas-comuns-do-scrum/)
+##
+**1. Excesso de planejamento inicial:** Evitar longas e longas reuniões de planejamento para definir cada fase futura do projeto. A equipe Scrum deve começar o projeto a partir das primeiras necessidades que foram identificadas pelo Product Owner.
+##
+**2.Impor prazos e recursos:** Ninguém deveria tentar impor prazos ou prescrever os recursos para que a equipe Scrum consiga completar uma determinada Sprint, pois são os mesmos que sabem melhor do que ninguém estipular o tempo necessário para completá-la.
+##
+**3. Distribuição errada do time:** O Scrum funciona bem quando a equipe se comunica bem. Comunicação é tudo e quando você pensa na composição do time Scrum, precisa pensar também na forma como ele irá se comportar junto.
+##
+**4. Falhar ao reiniciar Sprints:** Apesar de raro, caso uma Sprint seja cancelada a equipe deve imediatamente voltar ao trabalho mesmo que seja tentador esperar até que tudo esteja perfeito ou pronto. 
+##
+**5. Comprometer a qualidade:**  A pressão para entregar cada vez mais pode comprometer a atenção que o time dá para a qualidade. É importante garantir que a forma como é organizado e conduzido o trabalho do projeto não irá impactar na entrega final ao cliente.
+##
+**6. Product Owner especificando a solução:** Os problemas surgem ao longo de um projeto e isso é normal. O Product Owner não deve tentar surgir como a resposta para todas as soluções, esperando que a equipe fará sempre tudo de seu jeito. A equipe Scrum já é formada pensando em pessoas que possam resolver os problemas que surgem de forma proativa e responsável.
+##
+**7. Deixar de aprender:** Scrum acredita no desenvolvimento constante e isso também requer aprendizagem constante por parte dos membros da equipe. A busca por conhecimento deve ser estimulada para garantir que a equipe sempre terá tudo o que é preciso para dar conta do projeto.
+##
+**8. Mudar o time frequentemente:** Uma equipe Scrum deve ser organizada e de alto desempenho para gerar valor. Mudar membros com frequência não só reduz a eficiência e produtividade, mas também desmotiva os membros da equipe que continuam no projeto.
+##
 ## Requisitos para se usar Scrum
 ###### (Referência: https://mplaza.pm/scrum-prerequisites/)
 ##
