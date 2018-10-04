@@ -21,7 +21,7 @@
 # Devo usar Scrum?
 - Contextualização (SOFIA)
 - Necessidades do Scrum (SOFIA & LARISSA)
-  - Projetos adequados ao Scrum (SOFIA)
+  - Projetos adequados (SOFIA)
   - Requisitos (LARISSA)
 - Evitando obstáculo (LARISSA)
 - Estudo de caso (NATÁLIA)
