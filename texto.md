@@ -42,6 +42,14 @@ Após verificar-se que o projeto é adequado ao Scrum, resta determinar os aspec
 ## Evitando obstáculos
 
 ### Erros que não podem ser cometidos
+- **Esperar que a implementação seja fácil:** Utilizar o Scrum para um determinado projeto vai além de transformar requisitos em histórias de usuário, realizar reuniões e desenvolver produtos de software por meio de sprints, é preciso que haja uma transformação cultural dentro da organização. Por isso, não deve haver falta de comunicação. As atividades devem ser realizadas de maneira responsável, transmitindo confiança entre os integrantes da equipe e o cliente.
+- **Fazer as práticas sem os princípios:**  Os princípios do Scrum, tais como as interações e sua própria cultura, são o alicerce para um bom e duradouro funcionamento da metodologia. Utilizar as técnicas do Scrum, que vão desde os papéis, artefatos e reuniões, sem compreender o motivo faz com que tais práticas se tornem insustentáveis com o tempo.
+- **Scrum Master ser um Gerente de Projeto:** No Scrum, não há um chefe que atribui tarefas e dita esforços. Na verdade, a equipe ágil é auto-organizável, e o Scrum Master, um “líder-servo”. Os integrantes do projeto aprender a melhorar por meio do trabalho em grupo, oferecendo maior valor de maneira mais eficiente através de inspeções e adaptações regulares.
+- **Scrum Master ser o único responsável pela comunicação:** Um princípio ágil crucial é a comunicação. É certo que o Scrum Master tem funções de facilitador e de promover interações entre os participantes do projeto, contudo, é mais produtivo que um membro da equipe questione o Product Owner diretamente, em vez de investir tempo compondo um e-mail para o Scrum Master perguntar algo ao P.O., por exemplo.
+- **Não envolver o PO:** A colaboração é outro aspecto crucial do Scrum. Empresários e desenvolvedores precisam de trabalhar juntos para produzir o software requerido pela organização. Isso pode ser aprimorado por meio da colaboração, além da comunicação constante, envolvendo feedback para validar ou realizar correções.
+- **Não realizar reuniões diárias:** O *stand-up meeting* é demasiado importante em diversos aspectos, pois são nessas reuniões que a comunicação e a colaboração fornecem visibilidade e transparência, fatores que geram a otimização do projeto.
+- **Não levantar obstáculos cedo o bastante:** Uma das principais atribuições do Scrum Master é a remoção de obstáculos para que a equipe possa continuar a ser produtiva. Entretanto, caso não haja o levantamento de obstáculos através de uma boa comunicação, o Scrum Master não tem como resolvê-los.
+- **Não realizar reuniões retrospectivas:** A *Sprint Retrospective* é essencial para que a equipe reflita sobre como se tornar mais eficaz e como entrar em sintonia com seus integrantes, além de ajustar seu comportamento para os próximos sprints.
 
 ### Armadilhas
 
