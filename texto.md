@@ -17,6 +17,7 @@ Logo, com o intuito de sanar as adversidades pertinentes à tradicional engenhar
 - Indivíduos e interações mais que processos e ferramentas;
 - Software em funcionamento mais que documentação abrangente;
 - Colaboração com o cliente mais que negociação de contratos.
+
 Assim, a estrutura do Scrum é adequada aos princípios do manifesto ágil, tornando-se demasiado popular. Todavia, com tal fama, gerou-se uma interpretação equivocada de que o Scrum é perfeito para todo e qualquer projeto de software, o que pode causar mais problemas do que soluções, dependendo do projeto em que seria utilizado. Por isso, faz-se necessário entender os tipos de projeto mais coerentes com a proposta do Scrum antes de se adotá-lo. 
 
 ## Necessidades do Scrum
