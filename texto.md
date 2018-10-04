@@ -13,7 +13,7 @@ Entretanto, mesmo depois do surgimento e aplicação da engenharia de software, 
 - Alterabilidade (um produto pode passar por mudanças constantes);
 - Invisibilidade (software não é um produto tangível e visualizável, não pode ser representado através de uma abstração geométrica).
 
-Logo, com o intuito de sanar as adversidades pertinentes à tradicional engenharia de software, concebeu-se a ideia de desenvolvimento ágil. Tal conceito é oriundo de uma reação contra métodos de certa forma burocráticos, os quais se caracterizam por extensas documentações e regulamentações. Ademais, originou-se de visões negativas a respeito do modelo de desenvolvimento vigente, o chamado “Cascata”, considerado lento e burocrático, adjetivos contrários à forma usual com a qual os engenheiros de software realizam o trabalho eficientemente. Adota-se, então, nos anos 2000, o conceito de métodos ágeis, sendo publicado o Manifesto Ágil, o qual, dentre diversos valores, destacam-se:
+Logo, com o intuito de sanar as adversidades pertinentes à tradicional engenharia de software, concebeu-se a ideia de desenvolvimento ágil. Tal conceito é oriundo de uma reação contra métodos de certa forma burocráticos, os quais se caracterizam por extensas documentações e regulamentações. Ademais, originou-se de visões negativas a respeito do modelo de desenvolvimento vigente, o chamado “Cascata”, considerado lento e burocrático, adjetivos contrários à forma usual com a qual os engenheiros de software realizam o trabalho eficientemente. Adotou-se, então, nos anos 2000, o conceito de métodos ágeis, sendo publicado o Manifesto Ágil, no qual, dentre diversos valores, destacam-se:
 - Indivíduos e interações mais que processos e ferramentas;
 - Software em funcionamento mais que documentação abrangente;
 - Colaboração com o cliente mais que negociação de contratos.
@@ -30,8 +30,23 @@ O Scrum é embasado através do empirismo voltado ao controle de processo, ou se
 
 ### Requisitos para se usar Scrum
 
+Após verificar-se que o projeto é adequado ao Scrum, resta determinar os aspectos para um ambiente ágil, de fato. Para isso, são necessários os seguintes elementos:
+- **Equipe ágil:** Uma equipe ágil é composta por Scrum Master, Product Owner e a equipe de desenvolvimento.
+- O Scrum Master necessita de possuir prévia experiência, conhecendo bem o framework estrutural, incluindo seus problemas frequentes e suas soluções mais efetivas. Além disso, esse integrante da equipe deve ser um grande facilitador, possuindo alto nível de habilidades interpessoais.
+- O Product Owner deve compreender ciclos de vida adaptáveis, juntamente a seu valor comercial, possuindo tempo disponível para se reunir com o cliente e a equipe com o intuito de resolver eventuais adversidades do projeto em questão, além de maximizar o valor do negócio.
+- A equipe de desenvolvimento, além de ser experiente, precisa ser multifuncional e auto-organizável, implementando o produto de maneira incremental e iterativa. 
+- **Produto adequado:** Qualquer produto cujo desenvolvimento não possa ser separado em mais de uma entrega não cabível sob a utilização do Scrum. Alguns exemplos são sistemas críticos, como os de segurança de alguma empresa ou para aeronaves. Por isso, o tipo de produto e sua adequação à metodologias devem ser analisados desde o início.
+- **Empresa ágil:** A organização, de maneira geral, necessita de entender sobre os conceitos da metodologia ágil. Caso os diretores e gerentes não estiverem dispostos a capacitar a equipe, o Scrum não funcionará adequadamente.
+- **Cliente ágil:** Para o Scrum, a colaboração com o cliente é essencial. Isso se dá, porque o feedback deste é necessário para as constantes adaptações do projeto, afinal, busca-se resolver a necessidade do cliente com o projeto.
+
 ## Evitando obstáculos
+
+### Erros que não podem ser cometidos
+
+### Armadilhas
 
 ## Estudo de caso
 
 ## Referências
+
+
