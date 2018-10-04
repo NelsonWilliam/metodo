@@ -22,7 +22,7 @@
 - Contextualização (SOFIA)
 - Necessidades do Scrum (SOFIA & LARISSA)
   - Projetos adequados (SOFIA)
-  - Requisitos (LARISSA)
+  - Requisitos para se usar Scrum (LARISSA)
 - Evitando obstáculo (LARISSA)
 - Estudo de caso (NATÁLIA)
 
