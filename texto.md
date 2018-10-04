@@ -21,6 +21,11 @@ Assim, a estrutura do Scrum é adequada aos princípios do manifesto ágil, torn
 
 ## Projetos adequados ao Scrum
 
+O Scrum é embasado através do empirismo voltado ao controle de processo, ou seja, o conhecimento adquirido provém da experiência e da tomada de decisões oriundas de projetos anteriores. Por empregar uma abordagem iterativa e incremental, aliado aos conhecimentos empíricos, o Scrum pode aperfeiçoar a previsibilidade do projeto, controlando eventuais riscos. Logo, para que um projeto possa ser desenvolvido utilizando a metodologia Scrum, ele deve refletir determinados pilares que apoiam a implementação voltada ao empirismo, os quais são: transparência, inspeção e adaptação.
+- **Transparência:** Um projeto Scrum deve possuir transparência em seu desenvolvimento, devendo estar preparado para expor e discutir eventuais adversidades da organização. Esta deve, além disso, tornar visíveis aos interessados os aspectos significativos e especificações do processo de desenvolvimento, focando o combate aos empecilhos que possam surgir.
+- **Inspeção:** Em um projeto Scrum, os produtos gerados devem ser frequentemente inspecionados quanto ao seu progresso e objetivo, não interferindo na execução das tarefas. Em relação à inspeção, o interessado do projeto a realizar tal tarefa é o Product Owner, que é o conhecedor do domínio. Faz-se necessário que exista este papel e que suas decisões sejam respeitadas.   
+- **Adaptação:** Projetos adequados ao Scrum, de maneiras gerais, possuem constantemente a necessidade da adaptação de mudanças, pois seus requisitos ainda não foram completamente definidos, ocasionando o surgimento de novas necessidades no decorrer dos Sprints. Havendo mudanças, o artefato que está sendo produzido deve ser ajustado o mais brevemente possível para que não haja muitos desvios, diminuindo o impacto e o custo da alteração.
+
 ### Pontos positivos e negativos
 
 ### Evitando obstáculos
