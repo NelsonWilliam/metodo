@@ -19,18 +19,18 @@ Logo, com o intuito de sanar as adversidades pertinentes à tradicional engenhar
 - Colaboração com o cliente mais que negociação de contratos.
 Assim, a estrutura do Scrum é adequada aos princípios do manifesto ágil, tornando-se demasiado popular. Todavia, com tal fama, gerou-se uma interpretação equivocada de que o Scrum é perfeito para todo e qualquer projeto de software, o que pode causar mais problemas do que soluções, dependendo do projeto em que seria utilizado. Por isso, faz-se necessário entender os tipos de projeto mais coerentes com a proposta do Scrum antes de se adotá-lo. 
 
-## Projetos adequados ao Scrum
+## Necessidades do Scrum
+
+### Projetos adequados
 
 O Scrum é embasado através do empirismo voltado ao controle de processo, ou seja, o conhecimento adquirido provém da experiência e da tomada de decisões oriundas de projetos anteriores. Por empregar uma abordagem iterativa e incremental, aliado aos conhecimentos empíricos, o Scrum pode aperfeiçoar a previsibilidade do projeto, controlando eventuais riscos. Logo, para que um projeto possa ser desenvolvido utilizando a metodologia Scrum, ele deve refletir determinados pilares que apoiam a implementação voltada ao empirismo, os quais são: transparência, inspeção e adaptação.
 - **Transparência:** Um projeto Scrum deve possuir transparência em seu desenvolvimento, devendo estar preparado para expor e discutir eventuais adversidades da organização. Esta deve, além disso, tornar visíveis aos interessados os aspectos significativos e especificações do processo de desenvolvimento, focando o combate aos empecilhos que possam surgir.
 - **Inspeção:** Em um projeto Scrum, os produtos gerados devem ser frequentemente inspecionados quanto ao seu progresso e objetivo, não interferindo na execução das tarefas. Em relação à inspeção, o interessado do projeto a realizar tal tarefa é o Product Owner, que é o conhecedor do domínio. Faz-se necessário que exista este papel e que suas decisões sejam respeitadas.   
 - **Adaptação:** Projetos adequados ao Scrum, de maneiras gerais, possuem constantemente a necessidade da adaptação de mudanças, pois seus requisitos ainda não foram completamente definidos, ocasionando o surgimento de novas necessidades no decorrer dos Sprints. Havendo mudanças, o artefato que está sendo produzido deve ser ajustado o mais brevemente possível para que não haja muitos desvios, diminuindo o impacto e o custo da alteração.
 
-### Pontos positivos e negativos
+### Requisitos para se usar Scrum
 
-### Evitando obstáculos
-
-## Requisitos para se usar Scrum
+## Evitando obstáculos
 
 ## Estudo de caso
 
