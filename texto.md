@@ -53,6 +53,12 @@ Após verificar-se que o projeto é adequado ao Scrum, resta determinar os aspec
 
 ### Armadilhas
 
+- **Excesso de planejamento inicial:** É necessário evitar que as reuniões de *Sprint Planning* sejam demasiado longas. A equipe deve iniciar o projeto a partir das primeiras necessidades que forem identificadas pelo Product Owner.
+- **Falhar ao reiniciar Sprints:** Ainda que seja raro, caso um Sprint seja cancelado, a equipe deve retornar ao trabalho imediatamente, mesmo que o conveniente seja esperar até que todos os erros se resolvam.
+- **Deixar de aprender:** O Scrum consiste no desenvolvimento constante e, para isso, é requerida a aprendizagem igualmente constante por parte dos membros da equipe. A busca por conhecimento deve ser estimulada, com o intuito de garantir que a equipe sempre tenha as habilidades necessárias para prosseguir com o projeto.
+- **Mudar o time constantemente:** As equipes ágeis são auto-organizáveis, sendo recomendado que estas tenham alto desempenho para gerar valor. Alterar membros com frequência pode reduzir a eficiência e produtividade, além de contribuir para a não permanência de outros membros no projeto.
+
+
 ## Estudo de caso
 
 ## Referências
