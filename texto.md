@@ -16,7 +16,8 @@ Entretanto, mesmo depois do surgimento e aplicação da engenharia de software, 
 Logo, com o intuito de sanar as adversidades pertinentes à tradicional engenharia de software, concebeu-se a ideia de desenvolvimento ágil. Tal conceito é oriundo de uma reação contra métodos de certa forma burocráticos, os quais se caracterizam por extensas documentações e regulamentações. Ademais, originou-se de visões negativas a respeito do modelo de desenvolvimento vigente, o chamado “Cascata”, considerado lento e burocrático, adjetivos contrários à forma usual com a qual os engenheiros de software realizam o trabalho eficientemente. Adotou-se, então, nos anos 2000, o conceito de métodos ágeis, sendo publicado o Manifesto Ágil, no qual, dentre diversos valores, destacam-se:
 - Indivíduos e interações mais que processos e ferramentas;
 - Software em funcionamento mais que documentação abrangente;
-- Colaboração com o cliente mais que negociação de contratos.
+- Colaboração com o cliente mais que negociação de contratos;
+- Responder a mudanças mais que seguir um plano.
 
 Assim, a estrutura do Scrum é adequada aos princípios do manifesto ágil, tornando-se demasiado popular. Todavia, com tal fama, gerou-se uma interpretação equivocada de que o Scrum é perfeito para todo e qualquer projeto de software, o que pode causar mais problemas do que soluções, dependendo do projeto em que seria utilizado. Por isso, faz-se necessário entender os tipos de projeto mais coerentes com a proposta do Scrum antes de se adotá-lo. 
 
