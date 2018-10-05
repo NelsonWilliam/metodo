@@ -64,7 +64,7 @@ Após verificar-se que o projeto é adequado ao Scrum, resta determinar os aspec
 
 A seguir, são citados dois estudos de caso relacionados a projetos sob a aplicação do Scrum.
 
-### Sistema de gestão de estoque - RU da UFSCar
+### Sistema de gestão de estoque &mdash; RU da UFSCar
 
 Na Universidade Federal de São Carlos (UFSCar), foi proposta a implementação de um sistema que pudesse automatizar a gestão de estoque do Restaurante Universitário (RU), utilizando o Scrum. Tal projeto serviria como parte do trabalho de conclusão de curso da especialização em Desenvolvimento de Software para Web, sendo os alunos do curso os integrantes da equipe.
 
@@ -88,3 +88,23 @@ Por outro lado, algumas adaptações ao modelo Scrum também foram realizadas, d
 Após a elaboração do Product Backlog, tal artefato foi priorizado e dividido de acordo com os Sprints do projeto, os quais tiveram duração de quinze dias. Em cada uma, realizavam-se reuniões assíncronas com o Product Owner para que este indicasse os itens do backlog com mais prioridade. Em seguida, a equipe analisava colaborativamente a complexidade desses itens e o que se adequaria ao prazo do Sprint, dividindo-os em tarefas de até uma semana por participante. Para o papel de Scrum Master, a responsabilidade coube a um integrante do Comitê Gestor da fábrica, no sentido de resolver todos os impedimentos reportados por qualquer membro da equipe. 
 
 ## Referências
+
+BROOKS, Frederick P. No Silver Bullet – Essence and Accident in Software Engineering. 1987.
+
+COMMOM MISINTERPRETATIONS OF SCRUM. Disponível em: <https://www.scrum.org/resources/blog/common-misinterpretations-scrum>. Acesso em 01 de outubro de 2018. 
+
+SCRUM. Disponível em: <https://www.desenvolvimentoagil.com.br/scrum/>. Acesso em: 01 de outubro de 2018.
+
+MANIFESTO PARA O DESENVOLVIMENTO ÁGIL DE SOFTWARE. Disponível em: <http://www.manifestoagil.com.br/index.html>. Acesso em: 01 de outubro de 2018.
+
+IMPLANTAÇÃO DE SCRUM: 10 ERROS QUE VOCÊ NÃO PODE COMETER. Disponível em: <https://www.scrum.org/resources/blog/common-misinterpretations-scrum>. Acesso em: 01 de outubro de 2018.
+
+15 ARMADILHAS COMUNS DO SCRUM. Disponível em: <https://sitecampus.com.br/15-armadilhas-comuns-do-scrum/>. Acesso em: 01 de outubro de 2018.
+
+SCRUM PREREQUISITES. Disponível em: <https://mplaza.pm/scrum-prerequisites/>. Acesso em: 01 de outubro de 2018.
+
+DESENVOLVIMENTO DE SOFTWARE USANDO O FRAMEWORK SCRUM: UM ESTUDO DE CASO. Disponível em: <http://www.revistatis.dc.ufscar.br/index.php/revista/article/view/81>. Acesso em: 01 de outubro de 2018.
+
+
+SOARES, F. et al. Adoção de SCRUM em uma Fábrica de Desenvolvimento Distribuído de Software. 2007.
+
