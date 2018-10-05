@@ -20,10 +20,10 @@
 ## Tópico definido:
 # Devo usar Scrum?
 - Contextualização (SOFIA)
-- Tipos de projeto (software) que se aplica scrum (SOFIA)
-  - Pontos positivos e negativos (SOFIA)
-  - Evitando obstáculo (LARISSA)
-- Requisitos para se usar Scrum (LARISSA)
+- Necessidades do Scrum (SOFIA & LARISSA)
+  - Projetos adequados (SOFIA)
+  - Requisitos para se usar Scrum (LARISSA)
+- Evitando obstáculo (LARISSA)
 - Estudo de caso (NATÁLIA)
 
 Extras (a se considerar)
