@@ -91,19 +91,19 @@ Após a elaboração do Product Backlog, tal artefato foi priorizado e dividido 
 
 BROOKS, Frederick P. No Silver Bullet – Essence and Accident in Software Engineering. 1987.
 
-COMMOM MISINTERPRETATIONS OF SCRUM. Disponível em: <https://www.scrum.org/resources/blog/common-misinterpretations-scrum>. Acesso em 01 de outubro de 2018. 
+COMMOM MISINTERPRETATIONS OF SCRUM. Disponível em: \<https://www.scrum.org/resources/blog/common-misinterpretations-scrum>. Acesso em 01 de outubro de 2018. 
 
-SCRUM. Disponível em: <https://www.desenvolvimentoagil.com.br/scrum/>. Acesso em: 01 de outubro de 2018.
+SCRUM. Disponível em: \<https://www.desenvolvimentoagil.com.br/scrum/>. Acesso em: 01 de outubro de 2018.
 
-MANIFESTO PARA O DESENVOLVIMENTO ÁGIL DE SOFTWARE. Disponível em: <http://www.manifestoagil.com.br/index.html>. Acesso em: 01 de outubro de 2018.
+MANIFESTO PARA O DESENVOLVIMENTO ÁGIL DE SOFTWARE. Disponível em: \<http://www.manifestoagil.com.br/index.html>. Acesso em: 01 de outubro de 2018.
 
-IMPLANTAÇÃO DE SCRUM: 10 ERROS QUE VOCÊ NÃO PODE COMETER. Disponível em: <https://www.scrum.org/resources/blog/common-misinterpretations-scrum>. Acesso em: 01 de outubro de 2018.
+IMPLANTAÇÃO DE SCRUM: 10 ERROS QUE VOCÊ NÃO PODE COMETER. Disponível em: \<https://www.scrum.org/resources/blog/common-misinterpretations-scrum>. Acesso em: 01 de outubro de 2018.
 
-15 ARMADILHAS COMUNS DO SCRUM. Disponível em: <https://sitecampus.com.br/15-armadilhas-comuns-do-scrum/>. Acesso em: 01 de outubro de 2018.
+15 ARMADILHAS COMUNS DO SCRUM. Disponível em: \<https://sitecampus.com.br/15-armadilhas-comuns-do-scrum/>. Acesso em: 01 de outubro de 2018.
 
-SCRUM PREREQUISITES. Disponível em: <https://mplaza.pm/scrum-prerequisites/>. Acesso em: 01 de outubro de 2018.
+SCRUM PREREQUISITES. Disponível em: \<https://mplaza.pm/scrum-prerequisites/>. Acesso em: 01 de outubro de 2018.
 
-DESENVOLVIMENTO DE SOFTWARE USANDO O FRAMEWORK SCRUM: UM ESTUDO DE CASO. Disponível em: <http://www.revistatis.dc.ufscar.br/index.php/revista/article/view/81>. Acesso em: 01 de outubro de 2018.
+DESENVOLVIMENTO DE SOFTWARE USANDO O FRAMEWORK SCRUM: UM ESTUDO DE CASO. Disponível em: \<http://www.revistatis.dc.ufscar.br/index.php/revista/article/view/81>. Acesso em: 01 de outubro de 2018.
 
 
 SOARES, F. et al. Adoção de SCRUM em uma Fábrica de Desenvolvimento Distribuído de Software. 2007.
