@@ -60,9 +60,31 @@ Após verificar-se que o projeto é adequado ao Scrum, resta determinar os aspec
 - **Deixar de aprender:** O Scrum consiste no desenvolvimento constante e, para isso, é requerida a aprendizagem igualmente constante por parte dos membros da equipe. A busca por conhecimento deve ser estimulada, com o intuito de garantir que a equipe sempre tenha as habilidades necessárias para prosseguir com o projeto.
 - **Mudar o time constantemente:** As equipes ágeis são auto-organizáveis, sendo recomendado que estas tenham alto desempenho para gerar valor. Alterar membros com frequência pode reduzir a eficiência e produtividade, além de contribuir para a não permanência de outros membros no projeto.
 
-
 ## Estudo de caso
 
+A seguir, são citados dois estudos de caso relacionados a projetos sob a aplicação do Scrum.
+
+### Sistema de gestão de estoque - RU da UFSCar
+
+Na Universidade Federal de São Carlos (UFSCar), foi proposta a implementação de um sistema que pudesse automatizar a gestão de estoque do Restaurante Universitário (RU), utilizando o Scrum. Tal projeto serviria como parte do trabalho de conclusão de curso da especialização em Desenvolvimento de Software para Web, sendo os alunos do curso os integrantes da equipe.
+
+Devido ao fato de que estes não possuíam conhecimentos aprofundados no assunto, foram ministradas disciplinas que abordavam as técnicas do Scrum. Além disso, foram realizadas adaptações à metodologia, tais como a rotatividade do papel de Scrum Master entre a equipe, uma substituição do *Daily Meeting* por reuniões semanais em videoconferência e a comunicação entre o P.O. e a equipe se dando, majoritariamente, mediante e-mails.
+
+Foram necessários 7 Sprints para a conclusão do projeto, o qual foi feito de forma contínua e evolutiva. A cada Sprint, a equipe registrava dificuldades e lições aprendidas. Ao analisar tais registros, foi possível notar que o conhecimento do time se aprimorou, gradativamente.
+
+Portanto, a principal contribuição deste projeto deu-se ao se identificar empecilhos e possíveis soluções ao se implantar o Scrum, em relação a colaboradores inexperientes. Nisso, foram indicadas situações a fim de evitar ou contornar cenários problemáticos, o que pode ser útil para equipes que estejam passando por uma situação similar.
+
+### Fábrica de desenvolvimento distribuído de software
+
+Este estudo de caso ocorreu na Fábrica de Desenvolvimento de Software Open Source, da Universidade Federal de Pernambuco. Sua equipe, alunos de mestrado do Centro de Informática, seguiu o Scrum com diretrizes para o desenvolvimento colaborativo e descentralizado, com características open source, ou seja, código compartilhado e equipe distribuída. O objetivo do projeto desenvolvido, pertencente à área da saúde pública, consistia em um sistema capaz de organizar informações, coletadas por pesquisadores, em um banco de dados gerenciável. Tais dados têm o objetivo de gerar de cenários para a tomada de ações estratégicas no combate e prevenção de doenças.
+
+Dentre principais aspectos do processo de desenvolvimento, além dos que já são concernentes ao Scrum, pode-se citar que: os requisitos do produto também podem ser extraídos da comunidade, a liderança deve ser compartilhada, além de que uma proposta comercial foi descrita com todo o Product Backlog inicialmente negociado com a lista dos requisitos da aplicação.
+
+Por outro lado, algumas adaptações ao modelo Scrum também foram realizadas, dentre as quais podem citar-se:
+- Houve uma comunicação assíncrona mediante o uso extensivo de um fórum específico, em que dificuldades e discussões foram relatados, substituindo as reuniões diárias, mas de maneira que, diariamente, todos os integrantes da equipe estivessem inteirados quanto ao andamento das atividades e eventuais empecilhos.
+- O time adotou, em algumas ocasiões, uma postura pró-ativa para tomar decisões sem envolver o Product Owner, devido à já citada comunicação assíncrona.
+- O Scrum Master também fez parte do time de desenvolvedores.
+
+Após a elaboração do Product Backlog, tal artefato foi priorizado e dividido de acordo com os Sprints do projeto, os quais tiveram duração de quinze dias. Em cada uma, realizavam-se reuniões assíncronas com o Product Owner para que este indicasse os itens do backlog com mais prioridade. Em seguida, a equipe analisava colaborativamente a complexidade desses itens e o que se adequaria ao prazo do Sprint, dividindo-os em tarefas de até uma semana por participante. Para o papel de Scrum Master, a responsabilidade coube a um integrante do Comitê Gestor da fábrica, no sentido de resolver todos os impedimentos reportados por qualquer membro da equipe. 
+
 ## Referências
-
-
