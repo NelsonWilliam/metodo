@@ -23,8 +23,8 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Estudar as referências e identificar tópicos relevantes | Todos  | 10/9/18 | Concluído |
 | Discutir os tópicos identificados e estabelecer o viés do trabalho<br>(temas abordados, público alvo, complexidade...) | Todos | 10/9/18 | Concluído |
 | Dividir responsabilidades entre os membros | Todos  | 10/9/18 | Concluído |
-| Elaborar conteúdo: tópicos, conceitos e explicações | Natália Lopes,<br>Larissa Chyevena<br>e Sofia Moraes | 1/10/18 | Em andamento |
-| Redigir o texto corrido com base no conteúdo | João Pedro Arruda | 8/10/18 | Em andamento |
+| Elaborar conteúdo: tópicos, conceitos e explicações | Natália Lopes,<br>Larissa Chyevena<br>e Sofia Moraes | 1/10/18 | Concluído |
+| Redigir o texto corrido com base no conteúdo | João Pedro Arruda | 8/10/18 | Concluído |
 | Supervisão e revisão do conteúdo e do texto | Nelson William | 14/10/18 | Em andamento |
 | Gravação da apresentação do conteúdo | Todos | 14/10/18 | Pendente |
 | Edição da apresentação e publicação no YouTube | Nelson William | 20/10/18 | Pendente |
