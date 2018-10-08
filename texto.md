@@ -2,10 +2,9 @@
 
 ## Contextualização
 
-Considerado uma das maiores tendências para projetos, o Scrum é utilizado para gerenciar projetos complexos desde o início da década de 90. Sendo um framework estrutural, ele não provê necessariamente técnicas para construir produtos, e sim, um suporte para que elas possam ser aplicadas [1].
-Além disso, ainda que o Scrum não tenha sido criado especificamente para o desenvolvimento de software, ele é amplamente adotado para este fim, tornando-se uma das metodologias mais utilizadas no planejamento e gestão de projetos de software. Nesse aspecto, como tantos projetos de software acabam por utilizar o Scrum? Para responder a esta questão, faz-se necessário recordar a origem da própria Engenharia de Software.
+Considerado uma das maiores tendências para projetos, o Scrum é utilizado para gerenciar projetos complexos desde o início da década de 90. Sendo um framework estrutural, ele não provê necessariamente técnicas para construir produtos, e sim, um suporte para que elas possam ser aplicadas. Além disso, ainda que o Scrum não tenha sido criado especificamente para o desenvolvimento de software, ele é amplamente adotado para este fim, tornando-se uma das metodologias mais utilizadas no planejamento e gestão de projetos de software. Nesse aspecto, como tantos projetos de software acabam por utilizar o Scrum? Para responder a esta questão, faz-se necessário recordar a origem da própria Engenharia de Software [1].
 
-Em meados da década de 60, tal área foi criada para solucionar a chamada “Crise do Software”, um agregado de diversos problemas que envolviam: imprecisão nas estimativas de prazo e custo, insatisfação do cliente com o sistema entregue, qualidade de software menor que a adequada, dificuldade de manutenção do software, dentre outros[2].
+Em meados da década de 60, tal área foi criada para solucionar a chamada “Crise do Software”, um agregado de diversos problemas que envolviam: imprecisão nas estimativas de prazo e custo, insatisfação do cliente com o sistema entregue, qualidade de software menor que a adequada, dificuldade de manutenção do software, dentre outros [2].
 
 Entretanto, mesmo depois do surgimento e aplicação da engenharia de software, o desenvolvimento de sistemas continua a enfrentar adversidades. Segundo Frederick P. Brooks, há dificuldades essenciais (pertinentes à natureza do software) e acidentais (pertinentes à produção do software), e o advento da engenharia de software resolveu apenas as dificuldades acidentais, permanecendo os problemas de:
 - Complexidade (o software pode possuir grande número de estados);
@@ -17,7 +16,7 @@ Logo, com o intuito de sanar as adversidades pertinentes à tradicional engenhar
 - Indivíduos e interações mais que processos e ferramentas;
 - Software em funcionamento mais que documentação abrangente;
 - Colaboração com o cliente mais que negociação de contratos;
-- Responder a mudanças mais que seguir um plano.[4]
+- Responder a mudanças mais que seguir um plano [4].
 
 Assim, a estrutura do Scrum é adequada aos princípios do manifesto ágil, tornando-se demasiado popular. Todavia, com tal fama, gerou-se uma interpretação equivocada de que o Scrum é perfeito para todo e qualquer projeto de software, o que pode causar mais problemas do que soluções, dependendo do projeto em que seria utilizado. Por isso, faz-se necessário entender os tipos de projeto mais coerentes com a proposta do Scrum antes de se adotá-lo [5]. 
 
