@@ -14,7 +14,9 @@ O grupo deste trabalho é composto pelos seguintes membros:
 
 ## Produtos
 
-- Foi criado o texto [\"Devo usar Scrum?\", disponível neste repositório](devo%20usar%20scrum.md).
+- Texto "Devo usar Scrum?", [disponível neste repositório](devo%20usar%20scrum.md).
+- Slides da apresentação, [disponíveis neste repositório](apresentacao/Devo%20usar%20Scrum_.pdf).
+- Vídeo da apresentação, futuramente disponíveis no YouTube.
 
 ## Planejamento
 
