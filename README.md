@@ -27,7 +27,7 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Redigir o texto corrido com base no conteúdo | João Pedro Arruda | 8/10/18 | Concluído |
 | Supervisão e revisão do conteúdo e do texto | Nelson William | 14/10/18 | Concluído |
 | Gravação da apresentação do conteúdo | Todos | 18/10/18 | Concluído |
-| Edição da apresentação e publicação no YouTube | Nelson William | 20/10/18 | Pendente |
+| Edição da apresentação e publicação no YouTube | Nelson William | 20/10/18 | Em andamento |
 | Finalização e envio | Todos | 21/10/18 | Pendente |
 
 **Modelo de execução**
