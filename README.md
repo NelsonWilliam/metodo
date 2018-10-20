@@ -26,7 +26,7 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Elaborar conteúdo: tópicos, conceitos e explicações | Natália Lopes,<br>Larissa Chyevena<br>e Sofia Moraes | 1/10/18 | Concluído |
 | Redigir o texto corrido com base no conteúdo | João Pedro Arruda | 8/10/18 | Concluído |
 | Supervisão e revisão do conteúdo e do texto | Nelson William | 14/10/18 | Concluído |
-| Gravação da apresentação do conteúdo | Todos | 18/10/18 | Em andamento |
+| Gravação da apresentação do conteúdo | Todos | 18/10/18 | Concluído |
 | Edição da apresentação e publicação no YouTube | Nelson William | 20/10/18 | Pendente |
 | Finalização e envio | Todos | 21/10/18 | Pendente |
 
