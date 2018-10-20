@@ -1,4 +1,4 @@
-﻿# Scrum
+# Scrum
 
 Trabalho em grupo da disciplina Métodos e Ferramentas de Software (UFG 2018-2) sobre o método de desenvolvimento de software Scrum, a ser entregue até o dia 22/10/2018.
 
@@ -11,6 +11,10 @@ O grupo deste trabalho é composto pelos seguintes membros:
 - Natália Lopes da Silva
 - Nelson William Viana de Siqueira
 - Sofia Martins Moraes
+
+## Produtos
+
+- Foi criado o texto [\"Devo usar Scrum?\", disponível neste repositório](devo%20usar%20scrum.md).
 
 ## Planejamento
 
