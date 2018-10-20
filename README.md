@@ -16,7 +16,7 @@ O grupo deste trabalho é composto pelos seguintes membros:
 
 - Texto "Devo usar Scrum?", [disponível neste repositório](devo%20usar%20scrum.md).
 - Slides da apresentação, [disponíveis neste repositório](apresentacao/Devo%20usar%20Scrum_.pdf).
-- Vídeo da apresentação, futuramente disponíveis no YouTube.
+- Vídeo da apresentação, [disponível no YouTube](https://youtu.be/KblLdKUafMY).
 
 ## Planejamento
 
@@ -33,7 +33,7 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Redigir o texto corrido com base no conteúdo | João Pedro Arruda | 8/10/18 | Concluído |
 | Supervisão e revisão do conteúdo e do texto | Nelson William | 14/10/18 | Concluído |
 | Gravação da apresentação do conteúdo | Todos | 18/10/18 | Concluído |
-| Edição da apresentação e publicação no YouTube | Nelson William | 20/10/18 | Em andamento |
+| Edição da apresentação e publicação no YouTube | Nelson William | 20/10/18 | Concluído |
 | Finalização e envio | Todos | 21/10/18 | Pendente |
 
 **Modelo de execução**
