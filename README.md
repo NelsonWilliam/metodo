@@ -34,7 +34,7 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 | Supervisão e revisão do conteúdo e do texto | Nelson William | 14/10/18 | Concluído |
 | Gravação da apresentação do conteúdo | Todos | 18/10/18 | Concluído |
 | Edição da apresentação e publicação no YouTube | Nelson William | 20/10/18 | Concluído |
-| Finalização e envio | Todos | 21/10/18 | Pendente |
+| Finalização e envio | Todos | 21/10/18 | Concluído |
 
 **Modelo de execução**
 - Três pessoas elaboram o conteúdo: estrutura de tópicos, conceitos e explicações breves.
