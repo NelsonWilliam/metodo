@@ -1,8 +1,9 @@
-# Scrum
+# Devo usar Scrum?
+Projeto de texto sobre a aplicabilidade do Scrum.
 
-Trabalho em grupo da disciplina Métodos e Ferramentas de Software (UFG 2018-2) sobre o método de desenvolvimento de software Scrum, a ser entregue até o dia 22/10/2018.
+Trabalho feito para a disciplina de Métodos e Ferramentas de Software, do semestre 2018-2, do curso de graduação em Engenharia de Software da Universidade Federal de Goiás.
 
-## Grupo
+## Membros
 
 O grupo deste trabalho é composto pelos seguintes membros:
 
@@ -40,3 +41,6 @@ Estão definidas abaixo as atividades a serem executadas pelos membros do grupo 
 - Três pessoas elaboram o conteúdo: estrutura de tópicos, conceitos e explicações breves.
 - Uma pessoa transforma o conteúdo em texto corrido.
 - Uma pessoa revisa o texto.
+
+## Licença
+[MIT License](LICENSE)
